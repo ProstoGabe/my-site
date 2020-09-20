@@ -87,6 +87,14 @@ body {
   text-align: center;
 }
 
+.lmss {
+    border-radius: 10%
+}
+
+.kat {
+    border-radius: 10%;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
